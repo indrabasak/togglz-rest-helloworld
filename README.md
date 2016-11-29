@@ -1,4 +1,4 @@
-![Build Status][travis-badge]][travis-badge-url]
+[![Build Status][travis-badge]][travis-badge-url]
 
 Togglz Rest Hello World
 ===================
