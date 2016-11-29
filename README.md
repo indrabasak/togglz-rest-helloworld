@@ -2,7 +2,7 @@
 
 Togglz Rest Hello World
 ===================
-This is  a simple REST service example using [**Togglz**](https://www.togglz.org/). 
+This is a simple REST service example using [**Togglz**](https://www.togglz.org/). 
 Togglz is an implementation of Martin Fowler's 
  [Feature Toggles](http://martinfowler.com/bliki/FeatureToggle.html) pattern for Java.
  
@@ -168,7 +168,7 @@ Expected Response Body:
 }
 ```
 
-#### Access Tooglz Admin Console
+#### Access Togglz Admin Console
 *****************************************
 URL: `http://localhost:8080/tooglz-rest-helloworld/togglz`
 
